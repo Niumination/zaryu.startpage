@@ -4,7 +4,7 @@ const palette = macchiato;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Alicante",
+    location: "Takengon",
     scale: "C",
   },
   clock: {
@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://linktr.ee/matt_ftw",
+  fastlink: "https://github.com/Niumination",
   openLastVisitedTab: false,
   tabs: [
     {
@@ -57,6 +57,12 @@ const default_config = {
               url: "https://lemmy.ml/",
               icon: "users",
               icon_color: palette.sky,
+            },
+            {
+              name: "OneDrive",
+              url: "https://virtualeducationacademy-my.sharepoint.com/",
+              icon: "brand-onedrive",
+              icon_color: palette.blue,
             },
           ],
         },
