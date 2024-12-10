@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = mocha;
+const palette = macchiato;
 
 const default_config = {
   overrideStorage: true,
@@ -95,8 +95,6 @@ const default_config = {
           ],
         },
       ],
-    },
-  ],
     },
     {
       name: "dev",
@@ -277,7 +275,8 @@ const default_config = {
             },
           ],
         },
-    
+      ],
+    },
     {
       name: "music",
       background_url: "src/img/banners/lofi.jpg",
