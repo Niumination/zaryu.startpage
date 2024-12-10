@@ -55,7 +55,7 @@ const default_config = {
             {
               name: "terabox",
               url: "https://dm.terabox.app/",
-              icon: "brand-terabox",
+              icon: "cloud-down",
               icon_color: palette.sky,
             },
             {
