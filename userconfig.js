@@ -269,7 +269,7 @@ const default_config = {
             },
             {
               name: "lk21",
-              url: "https://tv.lk21.official.my",
+              url: "https://tv.lk21official.my",
               icon: "shopping-bag",
               icon_color: palette.red,
             },
