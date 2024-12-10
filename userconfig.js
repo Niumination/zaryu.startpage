@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
@@ -89,7 +89,7 @@ const default_config = {
             {
               name: "tokopedia",
               url: "https://www.tokopedia.com/",
-              icon: "brand-tokopedia",
+              icon: "shopping-bag",
               icon_color: palette.peach,
             },
           ],
@@ -269,8 +269,8 @@ const default_config = {
             },
             {
               name: "lk21",
-              url: "https://www.google.com/search",
-              icon: "tv.lk21.official.my",
+              url: "https://tv.lk21.official.my",
+              icon: "shopping-bag",
               icon_color: palette.red,
             },
           ],
