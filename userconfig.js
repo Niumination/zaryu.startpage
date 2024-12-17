@@ -75,6 +75,12 @@ const default_config = {
               icon: "home-move",
               icon_color: palette.green,
             },
+            {
+              name: "Kinerja BKN",
+              url: "https://kinerja.bkn.go.id/",
+              icon: "home-move",
+              icon_color: palette.blue,
+            },
           ],
         },
         {
