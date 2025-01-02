@@ -29,6 +29,12 @@ const default_config = {
               icon_color: palette.green,
             },
             {
+              name: "twitter",
+              url: "https://x.com",
+              icon: "brand-x",
+              icon_color: palette.blue,
+            },
+            {
               name: "reddit",
               url: "https://www.reddit.com/",
               icon: "brand-reddit",
@@ -80,6 +86,12 @@ const default_config = {
               url: "https://kinerja.bkn.go.id/",
               icon: "home-move",
               icon_color: palette.blue,
+            },
+            {
+              name: "My ASN BKN",
+              url: "https://myasn.bkn.go.id/",
+              icon: "accessible",
+              icon_color: palette.green,
             },
           ],
         },
