@@ -16,7 +16,7 @@ const default_config = {
   openLastVisitedTab: false,
   tabs: [
     {
-      name: "personal",
+      name: "NIUMINATION",
       background_url: "src/img/banners/window-room.png",
       categories: [
         {
