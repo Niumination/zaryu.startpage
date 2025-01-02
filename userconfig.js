@@ -35,7 +35,7 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "reddit",
+              name: "RED",
               url: "https://www.reddit.com/",
               icon: "brand-reddit",
               icon_color: palette.peach,
@@ -113,7 +113,7 @@ const default_config = {
           ],
         },
         {
-          name: "anime & donghua",
+          name: "Watching",
           links: [
             {
               name: "AC",
