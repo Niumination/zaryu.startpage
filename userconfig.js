@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = mocha;
+const palette = macchiato;
 
 const default_config = {
   overrideStorage: true,
@@ -20,16 +20,16 @@ const default_config = {
       background_url: "src/img/banners/window-room.png",
       categories: [
         {
-          name: "media/rrss",
+          name: "media",
           links: [
             {
-              name: "facebook",
+              name: "FB",
               url: "https://facebook.com",
               icon: "brand-facebook",
               icon_color: palette.green,
             },
             {
-              name: "twitter",
+              name: "X",
               url: "https://x.com",
               icon: "brand-x",
               icon_color: palette.blue,
@@ -41,13 +41,13 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "youtube",
+              name: "YT",
               url: "https://www.youtube.com/",
               icon: "brand-youtube",
               icon_color: palette.red,
             },
             {
-              name: "instagram",
+              name: "IG",
               url: "https://www.instagram.com/",
               icon: "brand-instagram",
               icon_color: palette.blue,
@@ -59,17 +59,23 @@ const default_config = {
               icon_color: palette.mauve,
             },
             {
-              name: "terabox",
+              name: "TB",
               url: "https://dm.terabox.app/",
               icon: "cloud-down",
               icon_color: palette.sky,
             },
             {
-              name: "OneDrive",
+              name: "OD",
               url: "https://virtualeducationacademy-my.sharepoint.com/",
               icon: "brand-onedrive",
               icon_color: palette.blue,
             },
+            {
+              name: "WA",
+              url: "https://web.whatsapp.com/",
+              icon: "brand-whatsapp",
+              icon_color: palette.green,
+            },            
           ],
         },
         {
@@ -82,13 +88,13 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "Kinerja BKN",
+              name: "Kinerja",
               url: "https://kinerja.bkn.go.id/",
               icon: "home-move",
               icon_color: palette.blue,
             },
             {
-              name: "My ASN BKN",
+              name: "MyASN",
               url: "https://myasn.bkn.go.id/",
               icon: "accessible",
               icon_color: palette.green,
@@ -96,16 +102,16 @@ const default_config = {
           ],
         },
         {
-          name: "shopping",
+          name: "Shopping",
           links: [
             {
-              name: "shoope",
+              name: "Oren",
               url: "https://shopee.co.id/",
               icon: "brand-shopee",
               icon_color: palette.green,
             },
             {
-              name: "tokopedia",
+              name: "Toped",
               url: "https://www.tokopedia.com/",
               icon: "shopping-bag",
               icon_color: palette.peach,
