@@ -282,7 +282,7 @@ const default_config = {
       background_url: "src/img/banners/doom-slayer.png",
       categories: [
         {
-          name: "anime & donghua",
+          name: "LEARN & PRACTICE",
           links: [
             {
               name: "it-tools",
