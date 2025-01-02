@@ -118,6 +118,35 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "anime & donghua",
+          links: [
+            {
+              name: "anichin.dev",
+              url: "https://anichin.dev",
+              icon: "brand-intercom",
+              icon_color: palette.green,
+            },
+            {
+              name: "anixverse.com",
+              url: "https://anixverse.com",
+              icon: "brand-zhihu",
+              icon_color: palette.peach,
+            },
+            {
+              name: "animekompi.vip",
+              url: "https://www.animekompi.vip",
+              icon: "time-duration-30",
+              icon_color: palette.red,
+            },
+            {
+              name: "lk21",
+              url: "https://tv.lk21official.my",
+              icon: "shopping-bag",
+              icon_color: palette.red,
+            },
+          ],
+        },
       ],
     },
     {
