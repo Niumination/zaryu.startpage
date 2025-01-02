@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
@@ -51,12 +51,6 @@ const default_config = {
               url: "https://www.instagram.com/",
               icon: "brand-instagram",
               icon_color: palette.blue,
-            },
-            {
-              name: "hacker-news",
-              url: "https://news.ycombinator.com/ask",
-              icon: "news",
-              icon_color: palette.mauve,
             },
             {
               name: "TB",
@@ -122,25 +116,25 @@ const default_config = {
           name: "anime & donghua",
           links: [
             {
-              name: "anichin.dev",
+              name: "AC",
               url: "https://anichin.dev",
               icon: "brand-intercom",
               icon_color: palette.green,
             },
             {
-              name: "anixverse.com",
+              name: "AX",
               url: "https://anixverse.com",
               icon: "brand-zhihu",
               icon_color: palette.peach,
             },
             {
-              name: "animekompi.vip",
+              name: "AK",
               url: "https://www.animekompi.vip",
               icon: "time-duration-30",
               icon_color: palette.red,
             },
             {
-              name: "lk21",
+              name: "LK",
               url: "https://tv.lk21official.my",
               icon: "shopping-bag",
               icon_color: palette.red,
@@ -190,6 +184,12 @@ const default_config = {
               url: "https://leetcode.com",
               icon: "code-plus",
               icon_color: palette.green,
+            },
+            {
+              name: "hacker-news",
+              url: "https://news.ycombinator.com/ask",
+              icon: "news",
+              icon_color: palette.mauve,
             },
             {
               name: "stackoverflow",
