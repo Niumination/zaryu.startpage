@@ -338,6 +338,12 @@ const default_config = {
               icon: "search",
               icon_color: palette.sky,
             },
+            {
+              name: "cosmodiumcs",
+              url: "https://cosmodiumcs.com/",
+              icon: "security",
+              icon_color: palette.blue,
+            },            
           ],
         },
       ],
