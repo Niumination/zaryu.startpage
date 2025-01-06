@@ -341,8 +341,14 @@ const default_config = {
             {
               name: "cosmodiumcs",
               url: "https://cosmodiumcs.com/",
-              icon: "security",
+              icon: "galaxy",
               icon_color: palette.blue,
+            },
+            {
+              name: "Hexzilla",
+              url: "https://hexzilla.com/",
+              icon: "hexagon",
+              icon_color: palette.peach,
             },            
           ],
         },
