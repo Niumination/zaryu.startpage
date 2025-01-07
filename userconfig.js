@@ -341,12 +341,12 @@ const default_config = {
             {
               name: "cosmodiumcs",
               url: "https://cosmodiumcs.com/",
-              icon: "galaxy",
+              icon: "meteor",
               icon_color: palette.blue,
             },
             {
               name: "Hexzilla",
-              url: "https://hexzilla.com/",
+              url: "https://www.hexzilla.com/",
               icon: "hexagon",
               icon_color: palette.peach,
             },            
