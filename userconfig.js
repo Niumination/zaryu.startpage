@@ -341,7 +341,7 @@ const default_config = {
             {
               name: "cosmodiumcs",
               url: "https://cosmodiumcs.com/",
-              icon: "meteor",
+              icon: "components",
               icon_color: palette.blue,
             },
             {
@@ -349,7 +349,25 @@ const default_config = {
               url: "https://www.hexzilla.com/",
               icon: "hexagon",
               icon_color: palette.peach,
-            },            
+            },      
+            {
+              name: "Table",
+              url: "https://tabler.io/",
+              icon: "table-plus",
+              icon_color: palette.sky,
+            }, 
+            {
+              name: "GencraftAI",
+              url: "https://gencraft.com/",
+              icon: "windmill",
+              icon_color: palette.maroon,
+            },       
+            {
+              name: "KlingAI",
+              url: "https://klingai./",
+              icon: "curling",
+              icon_color: palette.green,
+            }, 
           ],
         },
       ],
