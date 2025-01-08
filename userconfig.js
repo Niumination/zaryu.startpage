@@ -364,7 +364,7 @@ const default_config = {
             },       
             {
               name: "KlingAI",
-              url: "https://klingai./",
+              url: "https://klingai.com/",
               icon: "curling",
               icon_color: palette.green,
             }, 
