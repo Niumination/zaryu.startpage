@@ -352,7 +352,7 @@ const default_config = {
             },      
             {
               name: "Table",
-              url: "https://tabler.io/",
+              url: "https://tabler.io/icons",
               icon: "table-plus",
               icon_color: palette.sky,
             }, 
@@ -367,6 +367,12 @@ const default_config = {
               url: "https://klingai.com/",
               icon: "curling",
               icon_color: palette.green,
+            },
+            {
+              name: "Lynk",
+              url: "https://lynk.id/",
+              icon: "home-link",
+              icon_color: palette.blue,
             }, 
           ],
         },
