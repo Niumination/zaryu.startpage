@@ -110,6 +110,48 @@ const default_config = {
               icon: "shopping-bag",
               icon_color: palette.green,
             },
+            {
+              name: "raindrop",
+              url: "https://app.raindrop.io",
+              icon: "droplet-bolt",
+              icon_color: palette.green,
+            },
+            {
+              name: "gmail",
+              url: "https://mail.google.com",
+              icon: "brand-gmail",
+              icon_color: palette.green,
+            },
+            {
+              name: "calendar",
+              url: "https://calendar.google.com",
+              icon: "calendar-filled",
+              icon_color: palette.peach,
+            },
+            {
+              name: "sheets",
+              url: "https://docs.google.com/spreadsheets",
+              icon: "table",
+              icon_color: palette.red,
+            },
+            {
+              name: "drive",
+              url: "https://drive.google.com/drive/home",
+              icon: "brand-google-drive",
+              icon_color: palette.blue,
+            },
+            {
+              name: "telegram",
+              url: "https://web.telegram.org",
+              icon: "brand-telegram",
+              icon_color: palette.green,
+            },
+            {
+              name: "kyivstar",
+              url: "https://tv.kyivstar.ua",
+              icon: "star-filled",
+              icon_color: palette.blue,
+            },
           ],
         },
         {
