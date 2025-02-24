@@ -159,19 +159,19 @@ const default_config = {
           links: [
             {
               name: "AC",
-              url: "https://anichin.dev",
+              url: "https://anichin.club",
               icon: "brand-intercom",
               icon_color: palette.teal,
             },
             {
               name: "AX",
-              url: "https://anixverse.com",
+              url: "https://anixverseone.com",
               icon: "brand-zhihu",
               icon_color: palette.yellow,
             },
             {
               name: "AK",
-              url: "https://www.animekompi.vip",
+              url: "https://www.animekompi.top",
               icon: "time-duration-30",
               icon_color: palette.mauve,
             },
