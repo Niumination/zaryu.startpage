@@ -183,6 +183,23 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "Pertambangan",
+          links: [
+            {
+              name: "CJ",
+              url: "https://cryptojar.net",
+              icon: "brand-crypto",
+              icon_color: palette.blue,
+            },
+            {
+              name: "CMC",
+              url: "https://coinmarketcap.com",
+              icon: "brand-coin",
+              icon_color: palette.yellow,
+            },
+          ],
+        },
       ],
     },
     {
