@@ -171,7 +171,7 @@ const default_config = {
             },
             {
               name: "AK",
-              url: "https://www.animekompi.top",
+              url: "https://animekompi.top",
               icon: "time-duration-30",
               icon_color: palette.mauve,
             },
