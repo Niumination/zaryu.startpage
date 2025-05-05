@@ -200,6 +200,17 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "AI",
+          links: [
+            {
+              name: "Voice Generator",
+              url: "https://aivoicegenerator.com",
+              icon: "brand-voice",
+              icon_color: palette.blue,
+            },
+          ],
+        },
       ],
     },
     {
