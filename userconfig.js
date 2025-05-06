@@ -34,10 +34,28 @@ const default_configuration = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "FB",
+              url: "https://facebook.com",
+              icon: "brand-facebook",
+              icon_color: palette.blue,
+            },
+            {
+              name: "X",
+              url: "https://x.com",
+              icon: "brand-x",
+              icon_color: palette.red,
+            },
+            {
+              name: "RED",
+              url: "https://reddit.com",
+              icon: "brand-reddit",
               icon_color: palette.green,
+            },
+            {
+              name: "YT",
+              url: "https://youtube.com",
+              icon: "brand-youtube",
+              icon_color: palette.peach,
             },
             {
               name: "musicForProgramming();",
