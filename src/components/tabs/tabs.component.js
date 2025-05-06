@@ -101,8 +101,8 @@ class Tabs extends Component {
 
       #panels {
           border-radius: 10px;
-          width: 90%;
-          height: 75%;
+          width: 95%;
+          height: 85%;
           right: 0;
           left: 0;
           top: 0;
