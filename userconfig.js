@@ -58,6 +58,12 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
+              name: "IG",
+              url: "https://instagram.com",
+              icon: "brand-instagram", 
+              icon_color: palette.mauve,
+            },
+            {
               name: "musicForProgramming();",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
