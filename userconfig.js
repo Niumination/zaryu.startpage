@@ -4,7 +4,8 @@ const palette = mocha;
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Takengon, Aceh, Indonesia",
+    latitude: -3.3,
     scale: "C",
   },
   clock: {
@@ -26,7 +27,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "zaryu",
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
